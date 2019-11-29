@@ -125,14 +125,14 @@ Anything can boost the performance in the post-processing stage such as re-ranki
 | [CVPR19] | Localfeatures and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
 |[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
 
-# Multi-tasking local and global network
+# Multi-tasking local and global descriptors
 Some works try to cover both local descriptor and global retrieval due to the shared similarity about the activation and the applications.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] | ContextDesc: Local Descriptor Augmentation with Cross-Modality Context | - |[Github](https://github.com/lzx551402/contextdesc)|
 | [CVPR19] | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
-
+|[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 
 # Benchmarks
 
