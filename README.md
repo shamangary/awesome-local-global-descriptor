@@ -159,8 +159,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year | Paper | link | Code | Note |
 | --- | --- | --- | --- | --- |
 |[CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) |[Github](https://github.com/hpatches) |Hpatches|
-|[TPAMI11]| Discriminative learning of
-local image descriptors|[Page](http://matthewalunbrown.com/patchdata/patchdata.html)|-|UBC/Brown dataset (subsets:Liberty (New York), Notre Dame (Paris) and Half Dome (Yosemite))|
+|[TPAMI11]| Discriminative learning of local image descriptors|[Page](http://matthewalunbrown.com/patchdata/patchdata.html)|-|UBC/Brown dataset (subsets:Liberty (New York), Notre Dame (Paris) and Half Dome (Yosemite))|
 
 #### Global retrieval
 
