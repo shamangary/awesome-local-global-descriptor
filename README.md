@@ -106,6 +106,7 @@ Similar idea but use deep learning to adapt classical algorithm
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV16]|CNN Image RetrievalLearns from BoW: Unsupervised Fine-Tuning with Hard Examples. |[PDF](http://cmp.felk.cvut.cz/~chum/papers/Radenovic-ECCV16.pdf)|-|
 |[CVPR16]|NetVLAD: CNN architecture for weakly supervised place recognition|[Page](https://www.di.ens.fr/willow/research/netvlad/)|[Github](https://github.com/Relja/netvlad)|
 
 
@@ -115,8 +116,10 @@ One single representation from the image.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | - |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
-| [TPAMI18] |   Fine-tuning CNN Image Retrieval with No Human Annotation  |   [arXiv](https://arxiv.org/abs/1711.02512)  |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
+|[ICCV19]|Learning with Average Precision: Training Image Retrieval with a Listwise Loss |[arXiv](https://arxiv.org/abs/1906.07589)|[Github](https://github.com/almazan/deep-image-retrieval)|
+| [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Teichmann_Detect-To-Retrieve_Efficient_Regional_Aggregation_for_Image_Search_CVPR_2019_paper.pdf) |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
+| [TPAMI18] |   Fine-tuning CNN Image Retrieval with No Human Annotation |[arXiv](https://arxiv.org/abs/1711.02512)  |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
+|[IJCV17]| End-to-end Learning of Deep Visual Representations for Image Retrieval |[arXiv](https://arxiv.org/abs/1610.07940)|[Github](https://github.com/almazan/deep-image-retrieval)|
 |[ICCV17]|Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [ECCV16] |   CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 
