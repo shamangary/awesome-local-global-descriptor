@@ -29,6 +29,7 @@ In the last few decades, people focus on the patch descriptor
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR16] | Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales  | [PDF](https://zpascal.net/cvpr2016/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.pdf)  |  [Github](https://github.com/shamangary/asv)  |
+|[CVPR15]|Domain-Size Pooling in Local Descriptors: DSP-SIFT|[PDF](https://zpascal.net/cvpr2015/Dong_Domain-Size_Pooling_in_2015_CVPR_paper.pdf)|-|
 | [CVPR15] | BOLD - Binary Online Learned Descriptor For Efficient Image Matching  | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Balntas_BOLD_-_Binary_2015_CVPR_paper.pdf) |  [Github](https://github.com/vbalnt/bold)  |
 |[CVPR13]| Boosting binary keypoint descriptors|-|-|
 |[CVPR12]| Three things everyone should know to improve object retrieval|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf)|-|
@@ -69,8 +70,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] |  MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
-|[ECCV12]| Improving Image-Based Localization by Active
-Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
+|[ECCV12]| Improving Image-Based Localization by Active Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
 | [CVPR05] | Matching with PROSAC – Progressive Sample Consensus |[PDF](https://dspace.cvut.cz/bitstream/handle/10467/9496/2005-Matching-with-PROSAC-progressive-sample-consensus.pdf;jsessionid=F52133C01BA4F1B36C718896C0F335A1?sequence=1) |- |
 
 
@@ -109,8 +109,7 @@ For more compact representation, a binary descriptor can be generated from hashi
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [ICCVW19] | DAME WEB: DynAmic MEan with Whitening Ensemble Binarization
-for Landmark Retrieval without Human Annotation | [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Yang_DAME_WEB_DynAmic_MEan_with_Whitening_Ensemble_Binarization_for_Landmark_ICCVW_2019_paper.pdf) | -  |
+| [ICCVW19] | DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation | [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Yang_DAME_WEB_DynAmic_MEan_with_Whitening_Ensemble_Binarization_for_Landmark_ICCVW_2019_paper.pdf) | -  |
 
 
 ### 4. Product quantization
@@ -118,7 +117,8 @@ A very popular trend of effiecient and compact representation retrieval.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| |     |     |     |
+|[TPAMI10]| Product quantization for nearest neighbor search  |[PDF](https://core.ac.uk/download/pdf/48207765.pdf)|  -  |
+
 
 ### 5. Post-processing
 Anything can boost the performance in the post-processing stage such as re-ranking or query expansion.
@@ -141,6 +141,6 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
+| [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
 | [CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
 
