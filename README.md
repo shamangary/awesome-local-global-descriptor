@@ -57,6 +57,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ICCV19]|ELF: Embedded Localisation of Features in Pre-Trained CNN|[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Github](https://github.com/abenbihi/elf)|
 |[CVPRW19]|R2D2: Repeatable and Reliable Detector and Descriptor|[arXiv](https://arxiv.org/abs/1906.06195)|-|
 | [CVPR19] |  D2-Net: A Trainable CNN for Joint Description and Detection of Local Features   |  [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)  |  [Github](https://github.com/mihaidusmanu/d2-net)  |
 | [CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description | [arXiv](https://arxiv.org/abs/1712.07629)|[Github](https://github.com/rpautrat/SuperPoint)|
@@ -88,11 +89,24 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 Consider global retrieval usually targets on a lot of candidates, there are several way to generate one single description for one image.
 
-### 1. Local feature aggregation
+### 1. Feature aggregation
+
++ Hand-crafted
 When there is only hand-crafted local descriptors, people usually uses feature aggregation from a set of local descriptors and output a single description.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[CVPR13]|All about VLAD|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2013/arandjelovic13/arandjelovic13.pdf)|-|
+|[ECCV10]|Improving the fisher kernel for large-scale image classification|[PDF](https://lear.inrialpes.fr/pubs/2010/PSM10/PSM10_0766.pdf)|-|
+|[CVPR07]|Object retrieval with large vocabularies and fast spatial matching|[PDF](http://www.robots.ox.ac.uk:5000/~vgg/publications/2007/Philbin07/philbin07.pdf)|-|
+|[CVPR06]|Fisher kenrels on visual vocabularies for image categorizaton|[PDF](http://www.ee.oulu.fi/research/imag/courses/Vedaldi/2006-034.pdf)|-|
+
++ Deep learning
+Similar idea but use deep learning to adapt classical algorithm
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[CVPR16]|NetVLAD: CNN architecture for weakly supervised place recognition|[Page](https://www.di.ens.fr/willow/research/netvlad/)|[Github](https://github.com/Relja/netvlad)|
+
 
 
 ### 2. Real-valued descriptor
