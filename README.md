@@ -30,8 +30,10 @@ In the last few decades, people focus on the patch descriptor
 | --- | --- | --- | --- |
 | [CVPR16] | Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales  | [PDF](https://zpascal.net/cvpr2016/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.pdf)  |  [Github](https://github.com/shamangary/asv)  |
 | [CVPR15] | BOLD - Binary Online Learned Descriptor For Efficient Image Matching  | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Balntas_BOLD_-_Binary_2015_CVPR_paper.pdf) |  [Github](https://github.com/vbalnt/bold)  |
+|[CVPR13]| Boosting binary keypoint descriptors|-|-|
 |[CVPR12]| Three things everyone should know to improve object retrieval|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf)|-|
 |[IPOL11]| ASIFT: An Algorithm for Fully Affine Invariant Comparison|-|-|
+|[ICCV11]| BRISK: Binary robust invariant scalable keypoints|-|-|
 |[ICCV11]| Orb: An efficient alternative to sift or surf|-|-|
 |[ICCV11]| Local  inten-sity  order  pattern  for  feature  description |-|-|
 |[CVIU06]| Speeded-up robust features (SURF) |-|-|
