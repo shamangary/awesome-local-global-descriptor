@@ -163,15 +163,15 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 #### Global retrieval
 
-| Year | Paper | link | Code |
-| --- | --- | --- | --- |
-|[CVPR18]|Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking|[Page](http://cmp.felk.cvut.cz/revisitop/)|[Github](https://github.com/filipradenovic/revisitop)|
-|[CVPR07]|Object retrieval with large vocabularies and fast spatial matching |[Page](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/)|-|
-|[CVPR08]|Lost in Quantization: Improving Particular Object Retrieval in Large Scale Image Databases  |[Page](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/)|-|
+| Year | Paper | link | Code | Note |
+| --- | --- | --- | --- | --- |
+|[CVPR18]|Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking|[Page](http://cmp.felk.cvut.cz/revisitop/)|[Github](https://github.com/filipradenovic/revisitop)| ROxford5k, RParis6k |
+|[CVPR07]|Object retrieval with large vocabularies and fast spatial matching |[Page](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/)|-|Oxford5k|
+|[CVPR08]|Lost in Quantization: Improving Particular Object Retrieval in Large Scale Image Databases  |[Page](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/)|-|Paris6k|
 
 #### Localization (both local matching and global retrieval)
 
-| Year | Paper | link | Code |
-| --- | --- | --- | --- |
-| [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
+| Year | Paper | link | Code | Note |
+| --- | --- | --- | --- | --- |
+| [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|Aachen-day-night, Robotcar, CMU-seasons|
 
