@@ -17,6 +17,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[ICCV19]|  Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters   |  [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf) |  [Github](https://github.com/axelBarroso/Key.Net)  |
+|[ECCV18]| Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability | [arXiv](https://arxiv.org/abs/1711.06704)|[Github](https://github.com/ducha-aiki/affnet)|
 |[CVPR17]| Quad-networks: unsupervised learning to rank for interest point detection | [PDF](https://inf.ethz.ch/personal/ladickyl/quad_cvpr17.pdf)| - |
 |[CVPR16]| Learning to Assign Orientations to Feature Poitns | - |[Github](https://github.com/vcg-uvic/learn-orientation)|
 
@@ -34,7 +35,10 @@ In the last few decades, people focus on the patch descriptor
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[CVPR19]|SOSNet: Second Order Similarity Regularization for Local Descriptor Learning|[arXiv](https://arxiv.org/abs/1904.05019),[Page](https://research.scape.io/sosnet/)|[Github](https://github.com/scape-research/SOSNet)|
+|[CVPR19] |SOSNet: Second Order Similarity Regularization for Local Descriptor Learning|[arXiv](https://arxiv.org/abs/1904.05019),[Page](https://research.scape.io/sosnet/)|[Github](https://github.com/scape-research/SOSNet)|
+|[CVPR18]| Local Descriptors Optimized for Average Precision|[Page](http://cs-people.bu.edu/hekun/papers/DOAP/index.html)|-|
+|[NIPS17]| Working hard to know your neighbor's margins: Local descriptor learning loss |[arXiv](https://arxiv.org/abs/1705.10872)|[Github](https://github.com/DagnyT/hardnet)|
+| [ICCV17] | DeepCD: Learning Deep Complementary Descriptors for Patch Representations | [PDF](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Yang2017DLD.pdf)|[Github](https://github.com/shamangary/DeepCD)|
 |[CVPR17] | L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space|[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf)|[Github](https://github.com/yuruntian/L2-Net)|
 | [arXiv16] |   PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors  |  [arXiv](https://arxiv.org/abs/1601.05030) |   [Github](https://github.com/vbalnt/pnnet)  |
 |[BMVC16]| Learning local feature descriptors with triplets and shallow convolutional neural networks|[PDF](http://www.bmva.org/bmvc/2016/papers/paper119/paper119.pdf)|[Github](https://github.com/vbalnt/tfeat)|
@@ -46,7 +50,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | --- | --- | --- | --- |
 | [CVPR19] |  D2-Net: A Trainable CNN for Joint Description and Detection of Local Features   |  [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)  |  [Github](https://github.com/mihaidusmanu/d2-net)  |
 | [CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description | [arXiv](https://arxiv.org/abs/1712.07629)|[Github](https://github.com/rpautrat/SuperPoint)|
-| [NIPS18] | LF-Net: Learning Local Features from Images ||[Github](https://github.com/vcg-uvic/lf-net-release)|
+| [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
 ### 4. Geometric verification or learning based matcher
@@ -104,6 +108,13 @@ A very popular trend of effiecient and compact representation retrieval.
 | --- | --- | --- | --- |
 | |     |     |     |
 
+### 5. Post-processing
+Anything can boost the performance in the post-processing stage such as re-ranking or query expansion.
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+| [CVPR19] | Localfeatures and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
+
 
 # Multi-tasking local and global network
 Some works try to cover both local descriptor and global retrieval due to the shared similarity about the activation and the applications.
@@ -111,12 +122,12 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] | ContextDesc: Local Descriptor Augmentation with Cross-Modality Context | - |[Github](https://github.com/lzx551402/contextdesc)|
-| [CVPR19] |   From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
+| [CVPR19] | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
 
 
 # Benchmarks
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| |     |     |     |
+| [CVPR187]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
 
