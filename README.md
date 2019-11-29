@@ -7,7 +7,7 @@ If you find anything you want to add, feel free to post on issue or email me.
 ***Author: Tsun-Yi Yang (shamangary@hotmail.com)***
 
 
-# Local matching pipeline
+# Local matching pipeline (2D-to-2D)
 
 In this section, I focus on the review about the sparse keypoint matching and it's pipeline.
 
@@ -90,7 +90,9 @@ One single representation from the image.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+| [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | - |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [TPAMI18] |   Fine-tuning CNN Image Retrieval with No Human Annotation  |   [arXiv](https://arxiv.org/abs/1711.02512)  |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
+|[ICCV17]|Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](Large-Scale Image Retrieval with Attentive Deep Local Features)|
 | [ECCV16] |   CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 
 ### 3. Binary descriptor
@@ -98,7 +100,8 @@ For more compact representation, a binary descriptor can be generated from hashi
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| |     |     |     |
+| [ICCVW19] | DAME WEB: DynAmic MEan with Whitening Ensemble Binarization
+for Landmark Retrieval without Human Annotation | [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Yang_DAME_WEB_DynAmic_MEan_with_Whitening_Ensemble_Binarization_for_Landmark_ICCVW_2019_paper.pdf) | -  |
 
 
 ### 4. Product quantization
