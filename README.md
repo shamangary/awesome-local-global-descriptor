@@ -45,6 +45,9 @@ Recently, more and more papers try to embed the whole matching pipeline into one
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] |  D2-Net: A Trainable CNN for Joint Description and Detection of Local Features   |  [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)  |  [Github](https://github.com/mihaidusmanu/d2-net)  |
+| [CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description | [arXiv](https://arxiv.org/abs/1712.07629)|[Github](https://github.com/rpautrat/SuperPoint)|
+| [NIPS18] | LF-Net: Learning Local Features from Images ||[Github](https://github.com/vcg-uvic/lf-net-release)|
+| [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
 ### 4. Geometric verification or learning based matcher
 After the matching, standard RANSAC and it's variants are usually adopted for outlier removal.
