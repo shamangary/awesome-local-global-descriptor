@@ -7,7 +7,7 @@ If you find anything you want to add, feel free to post on issue or email me.
 ***Author: Tsun-Yi Yang (shamangary@hotmail.com)***
 
 
-# Local matching pipeline (2D-to-2D)
+# Local matching pipeline
 
 In this section, I focus on the review about the sparse keypoint matching and it's pipeline.
 
@@ -69,8 +69,9 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] |  MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
+|[ECCV12]| Improving Image-Based Localization by Active
+Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
 | [CVPR05] | Matching with PROSAC – Progressive Sample Consensus |[PDF](https://dspace.cvut.cz/bitstream/handle/10467/9496/2005-Matching-with-PROSAC-progressive-sample-consensus.pdf;jsessionid=F52133C01BA4F1B36C718896C0F335A1?sequence=1) |- |
-
 
 
 + Deep learning based
@@ -140,5 +141,6 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [CVPR187]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
+|[CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
+| [CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
 
