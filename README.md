@@ -30,7 +30,13 @@ In the last few decades, people focus on the patch descriptor
 | --- | --- | --- | --- |
 | [CVPR16] | Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales  | [PDF](https://zpascal.net/cvpr2016/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.pdf)  |  [Github](https://github.com/shamangary/asv)  |
 | [CVPR15] | BOLD - Binary Online Learned Descriptor For Efficient Image Matching  | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Balntas_BOLD_-_Binary_2015_CVPR_paper.pdf) |  [Github](https://github.com/vbalnt/bold)  |
-
+|[CVPR12]| Three things everyone should know to improve object retrieval|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf)|-|
+|[IPOL11]| ASIFT: An Algorithm for Fully Affine Invariant Comparison|-|-|
+|[ICCV11]| Orb: An efficient alternative to sift or surf|-|-|
+|[ICCV11]| Local  inten-sity  order  pattern  for  feature  description |-|-|
+|[CVIU06]| Speeded-up robust features (SURF) |-|-|
+|[ECCV06]| Surf:Speeded up robust features |-|-|
+|[IJCV04]| Distinctive  image  features  from  scale-invariant keypoints |-|-|
 + Deep learning
 
 | Year | Paper | link | Code |
@@ -92,7 +98,7 @@ One single representation from the image.
 | --- | --- | --- | --- |
 | [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | - |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [TPAMI18] |   Fine-tuning CNN Image Retrieval with No Human Annotation  |   [arXiv](https://arxiv.org/abs/1711.02512)  |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
-|[ICCV17]|Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](Large-Scale Image Retrieval with Attentive Deep Local Features)|
+|[ICCV17]|Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [ECCV16] |   CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 
 ### 3. Binary descriptor
@@ -117,7 +123,7 @@ Anything can boost the performance in the post-processing stage such as re-ranki
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR19] | Localfeatures and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
-
+|[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
 
 # Multi-tasking local and global network
 Some works try to cover both local descriptor and global retrieval due to the shared similarity about the activation and the applications.
