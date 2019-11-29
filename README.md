@@ -11,7 +11,7 @@ If you find anything you want to add, feel free to post on issue or email me.
 
 In this section, I focus on the review about the sparse keypoint matching and it's pipeline.
 
-### 1. Keypoint detection
+#### 1. Keypoint detection
 This subsection includes the review about keypoint detection and it's orientation, scale, or affine transformation estimation.
 
 | Year | Paper | link | Code |
@@ -21,7 +21,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 |[CVPR17]| Quad-networks: unsupervised learning to rank for interest point detection | [PDF](https://inf.ethz.ch/personal/ladickyl/quad_cvpr17.pdf)| - |
 |[CVPR16]| Learning to Assign Orientations to Feature Poitns | - |[Github](https://github.com/vcg-uvic/learn-orientation)|
 
-### 2. Keypoint description (local descriptor)
+#### 2. Keypoint description (local descriptor)
 In the last few decades, people focus on the patch descriptor
 
 + Hand-crafted
@@ -52,7 +52,7 @@ In the last few decades, people focus on the patch descriptor
 | [arXiv16] |   PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors  |  [arXiv](https://arxiv.org/abs/1601.05030) |   [Github](https://github.com/vbalnt/pnnet)  |
 |[BMVC16]| Learning local feature descriptors with triplets and shallow convolutional neural networks|[PDF](http://www.bmva.org/bmvc/2016/papers/paper119/paper119.pdf)|[Github](https://github.com/vbalnt/tfeat)|
 
-### 3. End-to-end matching pipeline
+#### 3. End-to-end matching pipeline
 Recently, more and more papers try to embed the whole matching pipeline (keypoint detection, keypoint description) into one framework. 
 
 | Year | Paper | link | Code |
@@ -64,7 +64,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
-### 4. Geometric verification or learning based matcher
+#### 4. Geometric verification or learning based matcher
 After the matching, standard RANSAC and it's variants are usually adopted for outlier removal.
 
 + Algorithm based
@@ -89,7 +89,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 Consider global retrieval usually targets on a lot of candidates, there are several way to generate one single description for one image.
 
-### 1. Feature aggregation
+#### 1. Feature aggregation
 
 + Hand-crafted
 When there is only hand-crafted local descriptors, people usually uses feature aggregation from a set of local descriptors and output a single description.
@@ -111,7 +111,7 @@ Similar idea but use deep learning to adapt classical algorithm
 
 
 
-### 2. Real-valued descriptor
+#### 2. Real-valued descriptor
 One single representation from the image.
 
 | Year | Paper | link | Code |
@@ -123,7 +123,7 @@ One single representation from the image.
 |[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [ECCV16] | CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 
-### 3. Binary descriptor and quantization
+#### 3. Binary descriptor and quantization
 For more compact representation, a binary descriptor can be generated from hashing or thresholding. Quantization is also very popular in large-scale image retrieval.
 
 | Year | Paper | link | Code |
@@ -135,7 +135,7 @@ For more compact representation, a binary descriptor can be generated from hashi
 |[TPAMI10]| Product quantization for nearest neighbor search  |[PDF](https://core.ac.uk/download/pdf/48207765.pdf)|  -  |
 
 
-### 5. Post-processing
+#### 5. Post-processing
 Anything can boost the performance in the post-processing stage such as re-ranking or query expansion.
 
 | Year | Paper | link | Code |
