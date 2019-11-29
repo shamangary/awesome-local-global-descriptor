@@ -120,8 +120,8 @@ One single representation from the image.
 | [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Teichmann_Detect-To-Retrieve_Efficient_Regional_Aggregation_for_Image_Search_CVPR_2019_paper.pdf) |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 | [TPAMI18] |   Fine-tuning CNN Image Retrieval with No Human Annotation |[arXiv](https://arxiv.org/abs/1711.02512)  |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 |[IJCV17]| End-to-end Learning of Deep Visual Representations for Image Retrieval |[arXiv](https://arxiv.org/abs/1610.07940)|[Github](https://github.com/almazan/deep-image-retrieval)|
-|[ICCV17]|Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
-| [ECCV16] |   CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
+|[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
+| [ECCV16] | CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples  |   [arXiv](https://arxiv.org/abs/1604.02426) |  [Github](https://github.com/filipradenovic/cnnimageretrieval-pytorch)  |
 
 ### 3. Binary descriptor and quantization
 For more compact representation, a binary descriptor can be generated from hashing or thresholding. Quantization is also very popular in large-scale image retrieval.
@@ -129,7 +129,7 @@ For more compact representation, a binary descriptor can be generated from hashi
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [ICCVW19] | DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation | [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Yang_DAME_WEB_DynAmic_MEan_with_Whitening_Ensemble_Binarization_for_Landmark_ICCVW_2019_paper.pdf) | -  |
-|[AAAI18]| Deep RegionHashing for Generic Instance Search from Image| - | - |
+|[AAAI18]| Deep Region Hashing for Generic Instance Search from Image| - | - |
 |[TPAMI18]| Supervised Learning of Semantics-Preserving Hash via Deep Convolutional NeuralNetworks |-|-|
 |[TPAMI13]| Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-Scale Image Retrieval|[PDF](http://refbase.cvc.uab.es/files/GLG2012b.pdf)|-|
 |[TPAMI10]| Product quantization for nearest neighbor search  |[PDF](https://core.ac.uk/download/pdf/48207765.pdf)|  -  |
@@ -140,7 +140,7 @@ Anything can boost the performance in the post-processing stage such as re-ranki
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [CVPR19] | Localfeatures and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
+| [CVPR19] | Local features and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
 |[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
 
 # Multi-tasking local and global descriptors
