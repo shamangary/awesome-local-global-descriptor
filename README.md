@@ -154,10 +154,24 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 # Benchmarks
 
+#### Local matching
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+| [CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
+
+
+#### Global retrieval
+
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[CVPR18]|Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking|[Page](http://cmp.felk.cvut.cz/revisitop/)|[Github](https://github.com/filipradenovic/revisitop)|
-| [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
-| [CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) | [Github](https://github.com/hpatches) |
 |[CVPR07]|Object retrieval with large vocabularies and fast spatial matching |[Page](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/)|-|
 |[CVPR08]|Lost in Quantization: Improving Particular Object Retrieval in Large Scale Image Databases  |[Page](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/)|-|
+
+#### Localization (both local matching and global retrieval)
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+| [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|
+
