@@ -98,6 +98,7 @@ Consider global retrieval usually targets on a lot of candidates, there are seve
 #### 1. Feature aggregation
 
 + Hand-crafted
+
 When there is only hand-crafted local descriptors, people usually uses feature aggregation from a set of local descriptors and output a single description.
 
 | Year | Paper | link | Code |
@@ -108,6 +109,7 @@ When there is only hand-crafted local descriptors, people usually uses feature a
 |[CVPR06]|Fisher kenrels on visual vocabularies for image categorizaton|[PDF](http://www.ee.oulu.fi/research/imag/courses/Vedaldi/2006-034.pdf)|-|
 
 + Deep learning
+
 Similar idea but use deep learning to adapt classical algorithm
 
 | Year | Paper | link | Code |
