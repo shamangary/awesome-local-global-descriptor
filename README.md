@@ -103,6 +103,7 @@ When there is only hand-crafted local descriptors, people usually uses feature a
 
 + Deep learning
 Similar idea but use deep learning to adapt classical algorithm
+
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[CVPR16]|NetVLAD: CNN architecture for weakly supervised place recognition|[Page](https://www.di.ens.fr/willow/research/netvlad/)|[Github](https://github.com/Relja/netvlad)|
