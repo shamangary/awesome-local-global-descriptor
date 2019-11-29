@@ -26,13 +26,15 @@ In the last few decades, people focus on the patch descriptor
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| |     |     |     |
+| [CVPR16] | Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales  |  -  |  [Github](https://github.com/shamangary/asv)  |
+| [CVPR15] | BOLD - Binary Online Learned Descriptor For Efficient Image Matching  |  -  |  [Github](https://github.com/vbalnt/bold)  |
 
 + Deep learning
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| |     |     |     |
+| [arXiv16] |   PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors  |  [arXiv](https://arxiv.org/abs/1601.05030) |   [Github](https://github.com/vbalnt/pnnet)  |
+|[BMVC16]| Learning local feature descriptors with triplets and shallow convolutional neural networks|[PDF](http://www.bmva.org/bmvc/2016/papers/paper119/paper119.pdf)|[Github](https://github.com/vbalnt/tfeat)|
 
 ### 3. End-to-end matching pipeline
 Recently, more and more papers try to embed the whole matching pipeline into one framework.
