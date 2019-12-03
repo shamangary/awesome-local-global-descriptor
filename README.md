@@ -86,7 +86,9 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv19]|Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task|[arXiv](https://128.84.21.199/abs/1912.00623)|-|
 | [arXiv19] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|-|
+|[ICCV19]|NG-RANSAC for Epipolar Geometry from Sparse Correspondences|[arXiv](https://arxiv.org/abs/1905.04132)|[Github](https://github.com/vislearn/ngransac)|
 | [ICCV19] | Learning Two-View Correspondences and Geometry Using Order-Aware Network | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
 | [CVPR18] | Learning to Find Good Correspondences |  -  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
 
