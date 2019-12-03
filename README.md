@@ -63,6 +63,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv19]|Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task|[arXiv](https://128.84.21.199/abs/1912.00623)|-|
 |[NIPS19]|R2D2: Repeatable and Reliable Detector and Descriptor|[arXiv](https://arxiv.org/abs/1906.06195),[Page](https://nips.cc/Conferences/2019/Schedule?showEvent=15782)|-|
 |[ICCV19]|ELF: Embedded Localisation of Features in Pre-Trained CNN|[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Github](https://github.com/abenbihi/elf)|
 | [CVPR19] |  D2-Net: A Trainable CNN for Joint Description and Detection of Local Features   |  [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)  |  [Github](https://github.com/mihaidusmanu/d2-net)  |
@@ -86,7 +87,6 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[arXiv19]|Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task|[arXiv](https://128.84.21.199/abs/1912.00623)|-|
 | [arXiv19] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|-|
 |[ICCV19]|NG-RANSAC for Epipolar Geometry from Sparse Correspondences|[arXiv](https://arxiv.org/abs/1905.04132)|[Github](https://github.com/vislearn/ngransac)|
 | [ICCV19] | Learning Two-View Correspondences and Geometry Using Order-Aware Network | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
