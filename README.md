@@ -33,6 +33,7 @@ In the last few decades, people focus on the patch descriptor
 |[CVPR15]|Domain-Size Pooling in Local Descriptors: DSP-SIFT|[PDF](https://zpascal.net/cvpr2015/Dong_Domain-Size_Pooling_in_2015_CVPR_paper.pdf)|-|
 | [CVPR15] | BOLD - Binary Online Learned Descriptor For Efficient Image Matching  | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Balntas_BOLD_-_Binary_2015_CVPR_paper.pdf) |  [Github](https://github.com/vbalnt/bold)  |
 |[CVPR13]| Boosting binary keypoint descriptors|-|-|
+|[CVPR12]|Freak: Fast retina keypoint|-|-|
 |[CVPR12]| Three things everyone should know to improve object retrieval|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf)|-|
 |[IPOL11]| ASIFT: An Algorithm for Fully Affine Invariant Comparison|-|-|
 |[ICCV11]| BRISK: Binary robust invariant scalable keypoints|-|-|
@@ -40,7 +41,7 @@ In the last few decades, people focus on the patch descriptor
 |[ICCV11]| Local  inten-sity  order  pattern  for  feature  description |-|-|
 |[CVIU06]| Speeded-up robust features (SURF) |-|-|
 |[ECCV06]| Surf:Speeded up robust features |-|-|
-|[IJCV04]| Distinctive  image  features  from  scale-invariant keypoints |-|-|
+|[IJCV04]| Distinctive  image  features  from  scale-invariant keypoints |-|[Github](https://github.com/ducha-aiki/pytorch-sift)|
 + Deep learning
 
 | Year | Paper | link | Code |
