@@ -22,6 +22,12 @@ This subsection includes the review about keypoint detection and it's orientatio
 |[CVPR16]| Learning to Assign Orientations to Feature Poitns | - |[Github](https://github.com/vcg-uvic/learn-orientation)|
 |[CVPR15]| TILDE: a Temporally Invariant Learned DEtector|[arXiv](https://arxiv.org/abs/1411.4568)|[Github](https://github.com/vcg-uvic/TILDE)|
 
++ 3D
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[arXiv19]|Self-Supervised 3D Keypoint Learning for Ego-motion Estimation|[arXiv](https://arxiv.org/abs/1912.03426)|[Github](https://github.com/TRI-ML/KP3D)|
+
 #### 2. Keypoint description (local descriptor)
 In the last few decades, people focus on the patch descriptor
 
