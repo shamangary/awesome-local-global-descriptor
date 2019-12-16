@@ -52,6 +52,7 @@ In the last few decades, people focus on the patch descriptor
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[TIP19]|Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval|[arXiv](https://arxiv.org/abs/1603.09095)|[Github](https://github.com/nenadmarkus/wlrn)|
 |[ICCV19]|Beyond Cartesian Representations for Local Descriptors|[PDF](https://etrulls.github.io/pdf/iccv-2019-logpol.pdf)|-|
 |[CVPR19] |SOSNet: Second Order Similarity Regularization for Local Descriptor Learning|[arXiv](https://arxiv.org/abs/1904.05019),[Page](https://research.scape.io/sosnet/)|[Github](https://github.com/scape-research/SOSNet)|
 |[ECCV18]| GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints|-|[Github](https://github.com/lzx551402/geodesc)|
