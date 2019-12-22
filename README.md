@@ -158,6 +158,7 @@ For more compact representation, a binary descriptor can be generated from hashi
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [ICCVW19] | DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation | [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Yang_DAME_WEB_DynAmic_MEan_with_Whitening_Ensemble_Binarization_for_Landmark_ICCVW_2019_paper.pdf) | [Github](https://github.com/scape-research/DAME-WEB)|
+|[CVPR18]|Hashing as Tie-Aware Learning to Rank|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Hashing_as_Tie-Aware_CVPR_2018_paper.pdf)|[Github](https://github.com/kunhe/TALR)|
 |[AAAI18]| Deep Region Hashing for Generic Instance Search from Image| - | - |
 |[TPAMI18]| Supervised Learning of Semantics-Preserving Hash via Deep Convolutional NeuralNetworks |-|-|
 |[TPAMI13]| Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-Scale Image Retrieval|[PDF](http://refbase.cvc.uab.es/files/GLG2012b.pdf)|-|
