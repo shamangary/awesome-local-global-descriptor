@@ -111,6 +111,12 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | [ICCV19] | Learning Two-View Correspondences and Geometry Using Order-Aware Network | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
 | [CVPR18] | Learning to Find Good Correspondences |  -  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
 
++ Image registration
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[Access18]|Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8404075)|[Github](https://github.com/yzhq97/cnn-registration)|
+
 
 # Global retrieval
 
@@ -190,7 +196,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | --- | --- | --- | --- |
 | [CVPR19] | ContextDesc: Local Descriptor Augmentation with Cross-Modality Context | - |[Github](https://github.com/lzx551402/contextdesc)|
 | [CVPR19] | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
-|[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
+|[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features (DELF)|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 
 # Benchmarks
 
