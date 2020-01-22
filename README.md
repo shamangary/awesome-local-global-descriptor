@@ -6,7 +6,7 @@ If you find anything you want to add, feel free to post on issue or email me.
 
 This repo is also a side product when I was doing the survey of our paper UR2KID. If you find this repo is useful, please also cite our paper.
 ```
-@article{hinton2015distilling,
+@article{yang2020ur2kid,
   title={UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision},
   author={Yang, Tsun-Yi*; Nguyen, Duy-Kien*; Heijnen, Huub; Balntas, Vassileios},
   journal={arXiv preprint arXiv:2001.07252},
@@ -207,6 +207,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision|[arXiv](https://arxiv.org/abs/2001.07252)|-|
 | [CVPR19] | ContextDesc: Local Descriptor Augmentation with Cross-Modality Context | - |[Github](https://github.com/lzx551402/contextdesc)|
 | [CVPR19] | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
 |[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features (DELF)|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
