@@ -4,7 +4,7 @@ If you find anything you want to add, feel free to post on issue or email me.
 
 <img src="https://github.com/shamangary/awesome-local-global-descriptor/blob/master/ur2kid_summary.png" height="540"/>
 
-This repo is also a side product when I was doing the survey of our paper UR2KID. If you find this repo is useful, please also cite our paper.
+This repo is also a side product when I was doing the survey of our paper UR2KID. If you find this repo useful, please also consider to cite our paper.
 ```
 @article{yang2020ur2kid,
   title={UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision},
