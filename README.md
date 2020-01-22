@@ -164,7 +164,8 @@ One single representation from the image.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[arXiv19]|ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval|[arXiv](https://arxiv.org/abs/1907.05794?fbclid=IwAR1R6HbcmocY_Goso5K8W8rhjmtNIxyGw2tUXObw12JR3QIbjEAVQGXZL8Q)||
+|[arXiv20]|Unifying Deep Local and Global Features for Efficient Image Search|[arXiv](https://arxiv.org/abs/2001.05027)|-|
+|[arXiv19]|ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval|[arXiv](https://arxiv.org/abs/1907.05794?fbclid=IwAR1R6HbcmocY_Goso5K8W8rhjmtNIxyGw2tUXObw12JR3QIbjEAVQGXZL8Q)|-|
 |[TIP19]|REMAP: Multi-layer entropy-guided pooling of dense CNN features for image retrieval|[arXiv](https://arxiv.org/abs/1906.06626)|-|
 |[ICCV19]|Learning with Average Precision: Training Image Retrieval with a Listwise Loss |[arXiv](https://arxiv.org/abs/1906.07589)|[Github](https://github.com/almazan/deep-image-retrieval)|
 | [CVPR19] | Detect-to-Retrieve: Efficient Regional Aggregation for Image Search | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Teichmann_Detect-To-Retrieve_Efficient_Regional_Aggregation_for_Image_Search_CVPR_2019_paper.pdf) |[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
