@@ -8,7 +8,7 @@ This repo is also a side product when I was doing the survey of our paper UR2KID
 ```
 @article{yang2020ur2kid,
   title={UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision},
-  author={Yang, Tsun-Yi*; Nguyen, Duy-Kien*; Heijnen, Huub; Balntas, Vassileios},
+  author={Yang*, Tsun-Yi; Nguyen*, Duy-Kien; Heijnen, Huub; Balntas, Vassileios},
   journal={arXiv preprint arXiv:2001.07252},
   year={2020}
 }
