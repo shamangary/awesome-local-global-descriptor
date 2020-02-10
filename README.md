@@ -103,7 +103,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
-#### 3.5 Dense descriptor
+#### 3.5. Dense descriptor
 Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.
 
 | Year | Paper | link | Code |
@@ -197,7 +197,7 @@ For more compact representation, a binary descriptor can be generated from hashi
 |[TPAMI10]| Product quantization for nearest neighbor search  |[PDF](https://core.ac.uk/download/pdf/48207765.pdf)|  -  |
 
 
-#### 5. Post-processing
+#### 4. Post-processing
 Anything can boost the performance in the post-processing stage such as re-ranking or query expansion.
 
 | Year | Paper | link | Code |
@@ -205,7 +205,7 @@ Anything can boost the performance in the post-processing stage such as re-ranki
 | [CVPR19] | Local features and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
 |[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
 
-#### 6. 3d point cloud
+#### 5. 3d point cloud
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
