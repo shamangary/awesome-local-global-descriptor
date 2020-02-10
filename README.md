@@ -103,6 +103,14 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
+#### 3.5 Dense descriptor
+Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.
+
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[ICRA20]|GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization|[arXiv](https://arxiv.org/abs/1904.11932)|[Web](https://vision.in.tum.de/research/vslam/gn-net)|
+
+
 #### 4. Geometric verification or learning based matcher
 After the matching, standard RANSAC and it's variants are usually adopted for outlier removal.
 
