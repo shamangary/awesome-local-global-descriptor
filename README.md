@@ -108,7 +108,7 @@ Unlike local keypoint descriptor depends on keypoint, some works try to get the 
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[ICRA20]|GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization|[arXiv](https://arxiv.org/abs/1904.11932)|[Web](https://vision.in.tum.de/research/vslam/gn-net)|
+|[ICRA20]|GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization|[arXiv](https://arxiv.org/abs/1904.11932), [MyNote](https://github.com/shamangary/awesome-local-global-descriptor/blob/master/Notes/GN-Net%20note.pdf)|[Web](https://vision.in.tum.de/research/vslam/gn-net)|
 
 
 #### 4. Geometric verification or learning based matcher
