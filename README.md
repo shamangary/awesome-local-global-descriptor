@@ -104,6 +104,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
 + 3D
+
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[arXiv20]|StickyPillars: Robust feature matching on point clouds using Graph Neural Networks|[arXiv](https://arxiv.org/abs/2002.03983)|-|
