@@ -109,6 +109,8 @@ Unlike local keypoint descriptor depends on keypoint, some works try to get the 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[ICRA20]|GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization|[arXiv](https://arxiv.org/abs/1904.11932), [MyNote](https://github.com/shamangary/awesome-local-global-descriptor/blob/master/Notes/GN-Net%20note.pdf)|[Web](https://vision.in.tum.de/research/vslam/gn-net)|
+|[ICCV17]|CLKN: Cascaded Lucas-Kanade Networks for Image Alignment|[PDF](CLKN: Cascaded Lucas-Kanade Networks for Image Alignment)|-|
+
 
 
 #### 4. Geometric verification or learning based matcher
