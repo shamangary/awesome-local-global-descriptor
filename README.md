@@ -103,6 +103,11 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
++ 3D
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[arXiv20]|StickyPillars: Robust feature matching on point clouds using Graph Neural Networks|[arXiv](https://arxiv.org/abs/2002.03983)|-|
+
 #### 3.5. Dense descriptor
 Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.
 
