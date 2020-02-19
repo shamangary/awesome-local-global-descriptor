@@ -99,7 +99,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 |[ICCV19]|ELF: Embedded Localisation of Features in Pre-Trained CNN|[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Github](https://github.com/abenbihi/elf)|
 |[CVPR19]|RF-Net: An End-to-End Image Matching Network based on Receptive Field|[arXiv](https://arxiv.org/abs/1906.00604)|[Github](https://github.com/Xylon-Sean/rfnet)|
 | [CVPR19] |  D2-Net: A Trainable CNN for Joint Description and Detection of Local Features   |  [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)  |  [Github](https://github.com/mihaidusmanu/d2-net)  |
-| [CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description | [arXiv](https://arxiv.org/abs/1712.07629)|[Github](https://github.com/rpautrat/SuperPoint)|
+| [CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description | [arXiv](https://arxiv.org/abs/1712.07629)|[Github](https://github.com/rpautrat/SuperPoint),[3rd_party](https://github.com/eric-yyjau/pytorch-superpoint)|
 | [NIPS18] | LF-Net: Learning Local Features from Images |[PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)|[Github](https://github.com/vcg-uvic/lf-net-release)|
 | [ECCV16] | LIFT: Learned Invariant Feature Points |-|[Github](https://github.com/cvlab-epfl/LIFT)|
 
