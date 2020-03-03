@@ -30,6 +30,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 | --- | --- | --- | --- |
 |[ICCV19]|  Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters   |  [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf) |  [Github](https://github.com/axelBarroso/Key.Net)  |
 |[ECCV18]| Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability | [arXiv](https://arxiv.org/abs/1711.06704)|[Github](https://github.com/ducha-aiki/affnet)|
+|[CVPR17]|Learning Discriminative and Transformation Covariant Local Feature Detectors|[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf)|[Github](https://github.com/ColumbiaDVMM/Transform_Covariant_Detector)|
 |[CVPR17]| Quad-networks: unsupervised learning to rank for interest point detection | [PDF](https://inf.ethz.ch/personal/ladickyl/quad_cvpr17.pdf)| - |
 |[CVPR16]| Learning to Assign Orientations to Feature Poitns | - |[Github](https://github.com/vcg-uvic/learn-orientation)|
 |[CVPR15]| TILDE: a Temporally Invariant Learned DEtector|[arXiv](https://arxiv.org/abs/1411.4568)|[Github](https://github.com/vcg-uvic/TILDE)|
