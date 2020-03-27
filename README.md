@@ -131,6 +131,8 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | [CVPR19] |  MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
 |[ECCV12]| Improving Image-Based Localization by Active Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
 | [CVPR05] | Matching with PROSAC – Progressive Sample Consensus |[PDF](https://dspace.cvut.cz/bitstream/handle/10467/9496/2005-Matching-with-PROSAC-progressive-sample-consensus.pdf;jsessionid=F52133C01BA4F1B36C718896C0F335A1?sequence=1) |- |
+| [CVPR05] |  Two-View Geometry Estimation Unaffected by a Dominant Plane  | [PDF](http://cmp.felk.cvut.cz/pub/cmp/articles/matas/chum-degen-cvpr05.pdf)  | [Github](https://github.com/ducha-aiki/pyransac)  |
+
 
 
 + Deep learning based
@@ -238,9 +240,11 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code | Note |
 | --- | --- | --- | --- | --- |
+|[arXiv2020]|Image Matching across Wide Baselines: From Paper to Practice|[arXiv](https://arxiv.org/abs/2003.01587)|[github](https://github.com/vcg-uvic/image-matching-benchmark)||
 |[CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) |[Github](https://github.com/hpatches) |Hpatches|
 |[TPAMI11]| Discriminative learning of local image descriptors|[Page](http://matthewalunbrown.com/patchdata/patchdata.html)|-|UBC/Brown dataset (subsets:Liberty (New York), Notre Dame (Paris) and Half Dome (Yosemite))|
 |[CVPR08]|On Benchmarking Camera Calibration and MultiView Stereo for High Resolution Imagery|||
+
 
 #### Global retrieval
 
