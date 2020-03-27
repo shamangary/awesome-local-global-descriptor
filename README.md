@@ -161,7 +161,7 @@ When there is only hand-crafted local descriptors, people usually uses feature a
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[ICCV13] <br> [IJCV15]|  | [ICCV](http://openaccess.thecvf.com/content_iccv_2013/papers/Tolias_To_Aggregate_or_2013_ICCV_paper.pdf) <br> [IJCV](https://hal.inria.fr/hal-01131898/document) | [Official : matlab](https://github.com/gtolias/asmk), [from DELF (tensorflow)](https://github.com/tensorflow/models/blob/master/research/delf/delf/python/feature_aggregation_extractor.py) |
+|[ICCV13] <br> [IJCV15]| To aggregate or not to aggregate: Selective match kernels for image search <br> Image search with selective match kernels: aggregation across single and multiple images| [ICCV](http://openaccess.thecvf.com/content_iccv_2013/papers/Tolias_To_Aggregate_or_2013_ICCV_paper.pdf) <br> [IJCV](https://hal.inria.fr/hal-01131898/document) | [Official : matlab](https://github.com/gtolias/asmk), [from DELF (tensorflow)](https://github.com/tensorflow/models/blob/master/research/delf/delf/python/feature_aggregation_extractor.py) |
 |[CVPR13]|All about VLAD|[PDF](https://www.robots.ox.ac.uk/~vgg/publications/2013/arandjelovic13/arandjelovic13.pdf)|-|
 |[ECCV10]|Improving the fisher kernel for large-scale image classification|[PDF](https://lear.inrialpes.fr/pubs/2010/PSM10/PSM10_0766.pdf)|-|
 |[CVPR07]|Object retrieval with large vocabularies and fast spatial matching|[PDF](http://www.robots.ox.ac.uk:5000/~vgg/publications/2007/Philbin07/philbin07.pdf)|-|
