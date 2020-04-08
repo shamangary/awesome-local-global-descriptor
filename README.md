@@ -235,6 +235,12 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | [CVPR19] | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net  |   [arXiv](https://arxiv.org/pdf/1812.03506)  |  [Github](https://github.com/ethz-asl/hfnet)  |
 |[ICCV17]| Large-Scale Image Retrieval with Attentive Deep Local Features (DELF)|-|[Github](https://github.com/tensorflow/models/tree/master/research/delf)|
 
+# Reivew type paper
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[arXiv18]|From handcrafted to deep local features|[arXiv](https://arxiv.org/abs/1807.10254)|-|
+|[CVPR17]|Comparative Evaluation of Hand-Crafted and Learned Local Features|[PDF](https://www.cvg.ethz.ch/research/local-feature-evaluation/schoenberger2017comparative.pdf)|-|
+
 # Benchmarks
 
 #### Local matching
