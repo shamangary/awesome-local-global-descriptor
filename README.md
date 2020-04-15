@@ -130,8 +130,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | --- | --- | --- | --- |
 |[arXiv20]|Multi-View Optimization of Local Feature Geometry|[arXiv](https://arxiv.org/abs/2003.08348v1)|-|
 | [CVPR19] |  MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
-|[CVPR16]|Progressive Feature Matching with Alternate Descriptor Selection and
-Correspondence Enrichment|[PDF](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf)|-|
+|[CVPR16]|Progressive Feature Matching with Alternate Descriptor Selection and Correspondence Enrichment|[PDF](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf)|-|
 |[CVPR13]|Robust Feature Matching with Alternate Hough and Inverted Hough Transforms|[PDF](http://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Robust_Feature_Matching_2013_CVPR_paper.pdf)|-|
 |[ECCV12]| Improving Image-Based Localization by Active Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
 | [CVPR05] | Matching with PROSAC – Progressive Sample Consensus |[PDF](https://dspace.cvut.cz/bitstream/handle/10467/9496/2005-Matching-with-PROSAC-progressive-sample-consensus.pdf;jsessionid=F52133C01BA4F1B36C718896C0F335A1?sequence=1) |- |
