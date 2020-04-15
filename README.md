@@ -245,6 +245,11 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 |[arXiv18]|From handcrafted to deep local features|[arXiv](https://arxiv.org/abs/1807.10254)|-|
 |[CVPR17]|Comparative Evaluation of Hand-Crafted and Learned Local Features|[PDF](https://www.cvg.ethz.ch/research/local-feature-evaluation/schoenberger2017comparative.pdf)|-|
 
+# Metric learning
+| Year | Paper | link | Code |
+|---|---|---|---|
+|[arXiv19]|A Metric Learning Reality Check|[arXiv](https://arxiv.org/abs/2003.08505)|-|
+
 # Benchmarks
 
 #### Local matching
