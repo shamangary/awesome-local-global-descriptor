@@ -250,6 +250,12 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 |---|---|---|---|
 |[arXiv19]|A Metric Learning Reality Check|[arXiv](https://arxiv.org/abs/2003.08505)|-|
 
+
+# MVS
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[CVPR20]|Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement|[arXiv](https://arxiv.org/abs/2003.13017)|[github](https://github.com/svip-lab/FastMVSNet)|
+
 # Benchmarks
 
 #### Local matching
@@ -275,4 +281,5 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year | Paper | link | Code | Note |
 | --- | --- | --- | --- | --- |
 | [CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|Aachen-day-night, Robotcar, CMU-seasons|
+
 
