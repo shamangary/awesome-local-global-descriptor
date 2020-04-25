@@ -95,6 +95,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions|[arXiv](https://arxiv.org/abs/2004.10566)|[github](https://github.com/ignacio-rocco/sparse-ncnet)|
 |[arXiv20]|S2DNet: Learning Accurate Correspondences for Sparse-to-Dense Feature Matching|[arXiv](https://arxiv.org/abs/2004.01673)|-|
 |[CVPR20]|ASLFeat: Learning Local Features of Accurate Shape and Localization|[arXiv](https://arxiv.org/abs/2003.10071)|[github](https://github.com/lzx551402/ASLFeat),[tfmatch](https://github.com/lzx551402/tfmatch)|
 |[CVPR20]|Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task|[arXiv](https://128.84.21.199/abs/1912.00623)|-|
