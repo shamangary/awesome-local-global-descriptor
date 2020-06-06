@@ -135,7 +135,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[arXiv20]|Multi-View Optimization of Local Feature Geometry|[arXiv](https://arxiv.org/abs/2003.08348v1)|-|
-| [CVPR19] |  MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
+| [CVPR19] | MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
 |[CVPR16]|Progressive Feature Matching with Alternate Descriptor Selection and Correspondence Enrichment|[PDF](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf)|-|
 |[CVPR13]|Robust Feature Matching with Alternate Hough and Inverted Hough Transforms|[PDF](http://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Robust_Feature_Matching_2013_CVPR_paper.pdf)|-|
 |[ECCV12]| Improving Image-Based Localization by Active Correspondence Search| [PDF](https://www.graphics.rwth-aachen.de/media/papers/sattler_eccv12_preprint_1.pdf)| - |
@@ -148,10 +148,10 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+| [CVPR20] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|[Github](https://github.com/magicleap/SuperGluePretrainedNetwork)|
 |[CVPR20]|High-dimensional Convolutional Networks for Geometric Pattern Recognition|[arXiv](https://arxiv.org/abs/2005.08144), [youtube](https://www.youtube.com/watch?v=bsPGPRrAJOY)|-|
 |[CVPR20]|ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning|[arXiv](https://arxiv.org/abs/1907.02545)|[github](https://github.com/vcg-uvic/acne)|
-|[arXiv20]|RANSAC-Flow: generic two-stage image alignment|[arXiv](https://arxiv.org/abs/2004.01526)|[page](http://imagine.enpc.fr/~shenx/RANSAC-Flow/),[Github](https://github.com/XiSHEN0220/RANSAC-Flow)|
-| [arXiv19] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|[Github](https://github.com/magicleap/SuperGluePretrainedNetwork)|
+|[arXiv20]|RANSAC-Flow: generic two-stage image alignment|[arXiv](https://arxiv.org/abs/2004.01526), [youtube](https://www.youtube.com/watch?v=ltZpqRtuA6A&feature=youtu.be)|[page](http://imagine.enpc.fr/~shenx/RANSAC-Flow/),[Github](https://github.com/XiSHEN0220/RANSAC-Flow)|
 |[ICCV19]|NG-RANSAC for Epipolar Geometry from Sparse Correspondences|[arXiv](https://arxiv.org/abs/1905.04132)|[Github](https://github.com/vislearn/ngransac)|
 | [ICCV19] | Learning Two-View Correspondences and Geometry Using Order-Aware Network | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
 | [CVPR18] | Learning to Find Good Correspondences |  -  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
