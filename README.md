@@ -264,6 +264,14 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 |[CVPR20]|Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement|[arXiv](https://arxiv.org/abs/2003.13017)|[github](https://github.com/svip-lab/FastMVSNet)|
+|[CVPR20]|BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks|[arXiv](https://arxiv.org/abs/1911.10127)|[github](https://github.com/YoYo000/BlendedMVS)|
+
+
+# View Synthesis
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[arXiv20]|Reference Pose Generation for Visual Localization via Learned Features and View Synthesis|[arXiv](https://arxiv.org/abs/2005.05179)|-|
+|[CVPR20]|BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks|[arXiv](https://arxiv.org/abs/1911.10127)|[github](https://github.com/YoYo000/BlendedMVS)|
 
 # Benchmarks
 
