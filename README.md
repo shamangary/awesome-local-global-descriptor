@@ -148,7 +148,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[CVPR20]|High-dimensional Convolutional Networks for Geometric Pattern Recognition|[arXiv](https://arxiv.org/abs/2005.08144),[youtube](https://www.youtube.com/watch?v=bsPGPRrAJOY)|-|
+|[CVPR20]|High-dimensional Convolutional Networks for Geometric Pattern Recognition|[arXiv](https://arxiv.org/abs/2005.08144), [youtube](https://www.youtube.com/watch?v=bsPGPRrAJOY)|-|
 |[CVPR20]|ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning|[arXiv](https://arxiv.org/abs/1907.02545)|[github](https://github.com/vcg-uvic/acne)|
 |[arXiv20]|RANSAC-Flow: generic two-stage image alignment|[arXiv](https://arxiv.org/abs/2004.01526)|[page](http://imagine.enpc.fr/~shenx/RANSAC-Flow/),[Github](https://github.com/XiSHEN0220/RANSAC-Flow)|
 | [arXiv19] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|[Github](https://github.com/magicleap/SuperGluePretrainedNetwork)|
@@ -160,6 +160,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|Deep Global Registration|[arXiv](https://arxiv.org/abs/2004.11540), [youtube](https://www.youtube.com/watch?v=Iy17wvo07BU)|-|
 |[Access18]|Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8404075)|[Github](https://github.com/yzhq97/cnn-registration)|
 
 
@@ -298,7 +299,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code | Note |
 | --- | --- | --- | --- | --- |
-|[ECCV20]|Map-based Localization for Autonomous Driving|[web](https://sites.google.com/view/mlad-eccv2020/)|[github1](https://github.com/pmwenzel/mlad-eccv2020),[github2](https://github.com/pmwenzel/mlad-benchmark-baselines)|-|
+|[ECCV20]|Map-based Localization for Autonomous Driving|[web](https://sites.google.com/view/mlad-eccv2020/)|[github1](https://github.com/pmwenzel/mlad-eccv2020), [github2](https://github.com/pmwenzel/mlad-benchmark-baselines)|-|
 |[CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|Aachen-day-night, Robotcar, CMU-seasons|
 
 
