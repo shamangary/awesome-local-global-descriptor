@@ -134,6 +134,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|AdaLAM: Revisiting Handcrafted Outlier Detection|[arXiv](https://arxiv.org/abs/2006.04250)|[github](https://github.com/cavalli1234/AdaLAM)|
 |[arXiv20]|Multi-View Optimization of Local Feature Geometry|[arXiv](https://arxiv.org/abs/2003.08348v1)|-|
 | [CVPR19] | MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
 |[CVPR16]|Progressive Feature Matching with Alternate Descriptor Selection and Correspondence Enrichment|[PDF](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf)|-|
