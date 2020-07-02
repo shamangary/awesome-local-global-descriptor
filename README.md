@@ -95,6 +95,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|DISK: Learning local features with policy gradient|[arXiv](https://arxiv.org/abs/2006.13566)|-|
 |[arXiv20]|D2D: Keypoint Extraction with Describe to Detect Approach|[arXiv](https://arxiv.org/abs/2005.13605)|-|
 |[arXiv20]|HDD-Net: Hybrid Detector Descriptor with Mutual Interactive Learning|[arXiv](https://arxiv.org/abs/2005.05777)|-|
 |[arXiv20]|Learning Feature Descriptors using Camera Pose Supervision|[arXiv](https://arxiv.org/abs/2004.13324)|-|
