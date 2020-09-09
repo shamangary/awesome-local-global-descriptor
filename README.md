@@ -19,6 +19,15 @@ This repo is also a side product when I was doing the survey of our paper UR2KID
 ***Author: Tsun-Yi Yang (shamangary@hotmail.com)***
 
 
+
+# Online talks
+
+|Year|Topic|Link|
+|[3DV20]|3DGV Talk: Marc Pollefeys - 3D geometric vision|[youtube](https://www.youtube.com/watch?v=eS-BMGIVp2o)|
+|[CVPR20]|Image Matching Workshop|[youtube](https://www.youtube.com/watch?v=UQ4uJX7UDB8)|
+|[CVPR20]|CVPR2020 tutorial: Local Features: From SIFT to Differentiable Methods|[youtube](https://www.youtube.com/watch?v=ZscK5p9hZBI)|
+|[CVPR20]|Deep Visual SLAM Frontends: SuperPoint, SuperGlue, and SuperMaps|[youtube](https://www.youtube.com/watch?v=u7Yo5EtOATQ)|
+
 # Local matching pipeline
 
 In this section, I focus on the review about the sparse keypoint matching and it's pipeline.
@@ -26,8 +35,10 @@ In this section, I focus on the review about the sparse keypoint matching and it
 #### 1. Keypoint detection
 This subsection includes the review about keypoint detection and it's orientation, scale, or affine transformation estimation.
 
-| Year | Paper | link | Code |
+| Year | Paper | Link | Code |
 | --- | --- | --- | --- |
+|[CVPR20]|KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects|[arXiv](https://arxiv.org/abs/1912.02805)|[link](https://sites.google.com/view/keypose/)|
+|[3DV19]|SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning|[arXiv](https://arxiv.org/abs/1805.01358)|[Github](https://github.com/uzh-rpg/sips2_open)|
 |[ICCV19]|  Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters   |  [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf) |  [Github](https://github.com/axelBarroso/Key.Net)  |
 |[ECCV18]| Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability | [arXiv](https://arxiv.org/abs/1711.06704)|[Github](https://github.com/ducha-aiki/affnet)|
 |[CVPR17]|Learning Discriminative and Transformation Covariant Local Feature Detectors|[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf)|[Github](https://github.com/ColumbiaDVMM/Transform_Covariant_Detector)|
