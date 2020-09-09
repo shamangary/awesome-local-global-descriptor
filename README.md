@@ -149,6 +149,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV20]|Making Affine Correspondences Work in Camera Geometry Computation|[arXiv](https://arxiv.org/abs/2007.10032)|[github](https://github.com/danini/affine-correspondences-for-camera-geometry)|
 |[arXiv20]|AdaLAM: Revisiting Handcrafted Outlier Detection|[arXiv](https://arxiv.org/abs/2006.04250)|[github](https://github.com/cavalli1234/AdaLAM)|
 |[arXiv20]|Multi-View Optimization of Local Feature Geometry|[arXiv](https://arxiv.org/abs/2003.08348v1)|-|
 | [CVPR19] | MAGSAC: Marginalizing Sample Consensus  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf)  | [Github](https://github.com/danini/magsac)  |
@@ -214,6 +215,8 @@ One single representation from the image.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV20]|Learning and aggregating deep local descriptors for instance-level recognition|[arXiv](https://arxiv.org/abs/2007.13172)|[github](https://github.com/gtolias/how)|
+|[ECCV20]|Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings|[arXiv](https://arxiv.org/abs/2008.05785)|[github](https://github.com/nianticlabs/image-box-overlap)|
 |[ECCV20]|Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval|[arXiv](https://arxiv.org/abs/2007.12163)|[github](https://github.com/Andrew-Brown1/Smooth_AP)|
 |[ECCV20]|SOLAR: Second-Order Loss and Attention for Image Retrieval|[arXiv](https://arxiv.org/abs/2001.08972)|-|
 |[ECCV20]|Unifying Deep Local and Global Features for Efficient Image Search|[arXiv](https://arxiv.org/abs/2001.05027)|-|
@@ -323,5 +326,6 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | --- | --- | --- | --- | --- |
 |[ECCV20]|Map-based Localization for Autonomous Driving|[web](https://sites.google.com/view/mlad-eccv2020/)|[github1](https://github.com/pmwenzel/mlad-eccv2020), [github2](https://github.com/pmwenzel/mlad-benchmark-baselines)|-|
 |[CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|Aachen-day-night, Robotcar, CMU-seasons|
+|[2020]|Kapture|[github](https://github.com/naver/kapture)|||
 
 
