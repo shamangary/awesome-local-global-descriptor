@@ -38,6 +38,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 
 | Year | Paper | Link | Code |
 | --- | --- | --- | --- |
+|[CVPR20]|Holistically-Attracted Wireframe Parsing|[arXiv](https://arxiv.org/pdf/2003.01663.pdf)|[github](https://github.com/cherubicXN/hawp)|
 |[CVPR20]|KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects|[arXiv](https://arxiv.org/abs/1912.02805)|[link](https://sites.google.com/view/keypose/)|
 |[3DV19]|SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning|[arXiv](https://arxiv.org/abs/1805.01358)|[Github](https://github.com/uzh-rpg/sips2_open)|
 |[ICCV19]|  Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters   |  [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf) |  [Github](https://github.com/axelBarroso/Key.Net)  |
@@ -107,6 +108,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|D2D: Learning to find good correspondences for image matching and manipulation|[arXiv](https://arxiv.org/abs/2007.08480)|-|
 |[arXiv20]|DISK: Learning local features with policy gradient|[arXiv](https://arxiv.org/abs/2006.13566)|-|
 |[arXiv20]|D2D: Keypoint Extraction with Describe to Detect Approach|[arXiv](https://arxiv.org/abs/2005.13605)|-|
 |[arXiv20]|HDD-Net: Hybrid Detector Descriptor with Mutual Interactive Learning|[arXiv](https://arxiv.org/abs/2005.05777)|-|
@@ -212,8 +214,9 @@ One single representation from the image.
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[arXiv20]|SOLAR: Second-Order Loss and Attention for Image Retrieval|[arXiv](https://arxiv.org/abs/2001.08972)|-|
-|[arXiv20]|Unifying Deep Local and Global Features for Efficient Image Search|[arXiv](https://arxiv.org/abs/2001.05027)|-|
+|[ECCV20]|Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval|[arXiv](https://arxiv.org/abs/2007.12163)|[github](https://github.com/Andrew-Brown1/Smooth_AP)|
+|[ECCV20]|SOLAR: Second-Order Loss and Attention for Image Retrieval|[arXiv](https://arxiv.org/abs/2001.08972)|-|
+|[ECCV20]|Unifying Deep Local and Global Features for Efficient Image Search|[arXiv](https://arxiv.org/abs/2001.05027)|-|
 |[arXiv19]|ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval|[arXiv](https://arxiv.org/abs/1907.05794?fbclid=IwAR1R6HbcmocY_Goso5K8W8rhjmtNIxyGw2tUXObw12JR3QIbjEAVQGXZL8Q)|-|
 |[TIP19]|REMAP: Multi-layer entropy-guided pooling of dense CNN features for image retrieval|[arXiv](https://arxiv.org/abs/1906.06626)|-|
 |[ICCV19]|Learning with Average Precision: Training Image Retrieval with a Listwise Loss |[arXiv](https://arxiv.org/abs/1906.07589)|[Github](https://github.com/almazan/deep-image-retrieval)|
@@ -274,6 +277,11 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 |[arXiv20]|Metric learning: cross-entropy vs. pairwise losses|[arXiv](https://arxiv.org/abs/2003.08983v1)|-|
 |[arXiv19]|A Metric Learning Reality Check|[arXiv](https://arxiv.org/abs/2003.08505)|-|
 
+
+# SfM
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[arXiv29]|Reducing Drift in Structure from Motion using Extended Features|[arXiv](https://arxiv.org/abs/2008.12295v1)|-|
 
 # MVS
 | Year | Paper | link | Code |
