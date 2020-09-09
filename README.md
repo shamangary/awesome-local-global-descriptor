@@ -252,7 +252,7 @@ Anything can boost the performance in the pre/post-processing stage such as rect
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-|[arXiv20]|Image Stylization for Robust Features|https://arxiv.org/abs/2008.06959|-|
+|[arXiv20]|Image Stylization for Robust Features|[arXiv](https://arxiv.org/abs/2008.06959)|-|
 |[ECCV20]|Single-Image Depth Prediction Makes Feature Matching Easier|[arXiv](https://arxiv.org/abs/2008.09497)|[github](https://github.com/nianticlabs/rectified-features)|
 | [CVPR19] | Local features and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
 |[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
