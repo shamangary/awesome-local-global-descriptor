@@ -52,6 +52,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV20]|DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization|[link](https://vision.in.tum.de/research/vslam/dh3d)|[github](https://github.com/JuanDuGit/DH3D)|
 |[ICCV19]|USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds|[arXiv](https://arxiv.org/abs/1904.00229)|[Github](https://github.com/lijx10/USIP)|
 |[arXiv19]|Self-Supervised 3D Keypoint Learning for Ego-motion Estimation|[arXiv](https://arxiv.org/abs/1912.03426)|[Github](https://github.com/TRI-ML/KP3D)|
 
