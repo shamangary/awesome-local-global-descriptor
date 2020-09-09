@@ -109,6 +109,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|Dense Semantic 3D Map Based Long-Term Visual Localization with Hybrid Features|[arXiv](https://arxiv.org/abs/2005.10766)|-|
 |[arXiv20]|D2D: Learning to find good correspondences for image matching and manipulation|[arXiv](https://arxiv.org/abs/2007.08480)|-|
 |[arXiv20]|DISK: Learning local features with policy gradient|[arXiv](https://arxiv.org/abs/2006.13566)|-|
 |[arXiv20]|D2D: Keypoint Extraction with Describe to Detect Approach|[arXiv](https://arxiv.org/abs/2005.13605)|-|
@@ -251,6 +252,7 @@ Anything can boost the performance in the pre/post-processing stage such as rect
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[arXiv20]|Image Stylization for Robust Features|https://arxiv.org/abs/2008.06959|-|
 |[ECCV20]|Single-Image Depth Prediction Makes Feature Matching Easier|[arXiv](https://arxiv.org/abs/2008.09497)|[github](https://github.com/nianticlabs/rectified-features)|
 | [CVPR19] | Local features and visual words emerge in activations |[PDF](https://zpascal.net/cvpr2019/Simeoni_Local_Features_and_Visual_Words_Emerge_in_Activations_CVPR_2019_paper.pdf) | -  |
 |[CVPR12]|Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking|[PDF](https://www.researchgate.net/profile/Jonathan_Brandt/publication/261168759_Object_retrieval_and_localization_with_spatially-constrained_similarity_measure_and_k-NN_re-ranking/links/5613d2c608ae983c1b4019d7.pdf)|-|
