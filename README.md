@@ -294,9 +294,10 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 |[CVPR20]|BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks|[arXiv](https://arxiv.org/abs/1911.10127)|[github](https://github.com/YoYo000/BlendedMVS)|
 
 
-# View Synthesis
+# View Synthesis/Novel view/Image completion
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV20]|Flow-edge Guided Video Completion|[arXiv](https://arxiv.org/abs/2009.01835)|[link](http://chengao.vision/FGVC/)|
 |[arXiv20]|Reference Pose Generation for Visual Localization via Learned Features and View Synthesis|[arXiv](https://arxiv.org/abs/2005.05179)|-|
 |[CVPR20]|BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks|[arXiv](https://arxiv.org/abs/1911.10127)|[github](https://github.com/YoYo000/BlendedMVS)|
 
@@ -306,7 +307,6 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year | Paper | link | Code | Note |
 | --- | --- | --- | --- | --- |
-|[github]|pyslamv2|-|[github](https://github.com/luigifreda/pyslam)|Covering all SOTA detector, descriptor for slam|
 |[arXiv2020]|Image Matching across Wide Baselines: From Paper to Practice|[arXiv](https://arxiv.org/abs/2003.01587)|[github](https://github.com/vcg-uvic/image-matching-benchmark)||
 |[CVPR17]| HPatches: A benchmark and evaluation of handcrafted and learned local descriptors | [arXiv](https://arxiv.org/pdf/1704.05939) |[Github](https://github.com/hpatches) |Hpatches|
 |[TPAMI11]| Discriminative learning of local image descriptors|[Page](http://matthewalunbrown.com/patchdata/patchdata.html)|-|UBC/Brown dataset (subsets:Liberty (New York), Notre Dame (Paris) and Half Dome (Yosemite))|
@@ -327,6 +327,12 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | --- | --- | --- | --- | --- |
 |[ECCV20]|Map-based Localization for Autonomous Driving|[web](https://sites.google.com/view/mlad-eccv2020/)|[github1](https://github.com/pmwenzel/mlad-eccv2020), [github2](https://github.com/pmwenzel/mlad-benchmark-baselines)|-|
 |[CVPR18]|Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf),[Page](https://www.visuallocalization.net/)| [Github](https://github.com/tsattler/visuallocalizationbenchmark)|Aachen-day-night, Robotcar, CMU-seasons|
-|[2020]|Kapture|[github](https://github.com/naver/kapture)|||
+
+#### Toolbox
+| Year | Paper | link |
+| --- | --- | --- |
+|[2020]|Kapture|[github](https://github.com/naver/kapture)|
+|[2020]|hloc - the hierarchical localization toolbox|[github](https://github.com/cvg/Hierarchical-Localization)|
+|[2020]|pyslamv2|[github](https://github.com/luigifreda/pyslam)|
 
 
