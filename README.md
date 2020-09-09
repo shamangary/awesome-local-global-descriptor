@@ -118,6 +118,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 |[arXiv20]|S2DNet: Learning Accurate Correspondences for Sparse-to-Dense Feature Matching|[arXiv](https://arxiv.org/abs/2004.01673)|-|
 |[CVPR20]|ASLFeat: Learning Local Features of Accurate Shape and Localization|[arXiv](https://arxiv.org/abs/2003.10071)|[github](https://github.com/lzx551402/ASLFeat),[tfmatch](https://github.com/lzx551402/tfmatch)|
 |[CVPR20]|Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task|[arXiv](https://128.84.21.199/abs/1912.00623)|-|
+|[WACV19]|DGC-Net: Dense Geometric Correspondence Network|[arXiv](https://arxiv.org/abs/1810.08393)|[github](https://github.com/AaltoVision/DGC-Net)|
 |[NIPS19]|R2D2: Repeatable and Reliable Detector and Descriptor|[arXiv](https://arxiv.org/abs/1906.06195),[Page](https://nips.cc/Conferences/2019/Schedule?showEvent=15782)|[Github](https://github.com/naver/r2d2)|
 |[ICCV19]|ELF: Embedded Localisation of Features in Pre-Trained CNN|[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Github](https://github.com/abenbihi/elf)|
 |[CVPR19]|RF-Net: An End-to-End Image Matching Network based on Receptive Field|[arXiv](https://arxiv.org/abs/1906.00604)|[Github](https://github.com/Xylon-Sean/rfnet)|
@@ -166,6 +167,7 @@ After the matching, standard RANSAC and it's variants are usually adopted for ou
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[ECCV20]|Online Invariance Selection for Local Feature Descriptors|[arXiv](https://arxiv.org/abs/2007.08988)|[github](https://github.com/rpautrat/LISRD)|
 | [CVPR20] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[arXiv](https://arxiv.org/abs/1911.11763)|[Github](https://github.com/magicleap/SuperGluePretrainedNetwork)|
 |[CVPR20]|High-dimensional Convolutional Networks for Geometric Pattern Recognition|[arXiv](https://arxiv.org/abs/2005.08144), [youtube](https://www.youtube.com/watch?v=bsPGPRrAJOY)|-|
 |[CVPR20]|ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning|[arXiv](https://arxiv.org/abs/1907.02545)|[github](https://github.com/vcg-uvic/acne)|
