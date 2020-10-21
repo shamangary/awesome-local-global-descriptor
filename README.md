@@ -24,6 +24,7 @@ This repo is also a side product when I was doing the survey of our paper UR2KID
 
 |Year|Topic|Link|
 | --- | --- | --- |
+|[ECCV20]|MLAD Workshop|[morning](https://www.youtube.com/watch?v=4ii0ALys6cY), [afternoon](https://www.youtube.com/watch?v=M-X6HX1JxYk)|
 |[3DV20]|3DGV Talk: Marc Pollefeys - 3D geometric vision|[youtube](https://www.youtube.com/watch?v=eS-BMGIVp2o)|
 |[CVPR20]|Image Matching Workshop|[youtube](https://www.youtube.com/watch?v=UQ4uJX7UDB8)|
 |[CVPR20]|CVPR2020 tutorial: Local Features: From SIFT to Differentiable Methods|[youtube](https://www.youtube.com/watch?v=ZscK5p9hZBI)|
@@ -133,6 +134,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
+|[CVPR20]|D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features|[arXiv](https://arxiv.org/abs/2003.03164)|[github](https://github.com/XuyangBai/D3Feat.pytorch)|
 |[arXiv20]|StickyPillars: Robust feature matching on point clouds using Graph Neural Networks|[arXiv](https://arxiv.org/abs/2002.03983)|-|
 
 #### 3.5. Dense descriptor
@@ -305,6 +307,11 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 |[ECCV20]|Flow-edge Guided Video Completion|[arXiv](https://arxiv.org/abs/2009.01835)|[link](http://chengao.vision/FGVC/)|
 |[arXiv20]|Reference Pose Generation for Visual Localization via Learned Features and View Synthesis|[arXiv](https://arxiv.org/abs/2005.05179)|-|
 |[CVPR20]|BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks|[arXiv](https://arxiv.org/abs/1911.10127)|[github](https://github.com/YoYo000/BlendedMVS)|
+
+# Segmentation localization
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+|[ICCV19]|Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization|[arXiv](https://arxiv.org/abs/1908.06387)|[github](https://github.com/maunzzz/fine-grained-segmentation-networks)|
 
 # Benchmarks
 
